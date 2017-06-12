@@ -1,0 +1,6 @@
+C:\Users\shomishanang\Desktop\New folder (2)\MobifyPetroCardProject.API\CSVReader\CSVReader\bin\Debug\CSVReader.exe.config
+C:\Users\shomishanang\Desktop\New folder (2)\MobifyPetroCardProject.API\CSVReader\CSVReader\bin\Debug\CSVReader.exe
+C:\Users\shomishanang\Desktop\New folder (2)\MobifyPetroCardProject.API\CSVReader\CSVReader\bin\Debug\CSVReader.pdb
+C:\Users\shomishanang\Desktop\New folder (2)\MobifyPetroCardProject.API\CSVReader\CSVReader\obj\Debug\CSVReader.csprojResolveAssemblyReference.cache
+C:\Users\shomishanang\Desktop\New folder (2)\MobifyPetroCardProject.API\CSVReader\CSVReader\obj\Debug\CSVReader.exe
+C:\Users\shomishanang\Desktop\New folder (2)\MobifyPetroCardProject.API\CSVReader\CSVReader\obj\Debug\CSVReader.pdb
